@@ -1,0 +1,16 @@
+[project]
+name = "langmcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastmcp>=2.12.5",
+    "langchain>=1.0.2",
+    "langchain-agents-pip>=0.1.0",
+    "langchain-anthropic>=1.0.0",
+    "langchain-groq>=1.0.0",
+    "langchain-mcp-adapters>=0.1.11",
+    "langgraph>=1.0.1",
+    "mcp>=1.16.0",
+]
