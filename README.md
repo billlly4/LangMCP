@@ -1,6 +1,6 @@
 # 🧠 LangMCP
 
-**LangMCP** is a modular, asynchronous AI agent framework that connects **Claude (Anthropic)** to multiple **MCP (Modular Command Platform)** servers through a dynamic **LangGraph** workflow.  
+**LangMCP** is a modular, asynchronous AI agent framework that connects **Claude (Anthropic)** to multiple **MCP (Model Context Protocol)** servers through a dynamic **LangGraph** workflow.  
 It can process **multiple tool calls and LLM requests concurrently**, coordinating everything through an event-driven graph of four connected nodes.
 
 ---
