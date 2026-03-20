@@ -37,7 +37,7 @@ All nodes run asynchronously, enabling **parallel tool execution and LLM inferen
 
 ### 1. Clone and set up
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com//billlly4/LangMCP.git
 cd LangMCP
 uv sync
 ```
